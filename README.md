@@ -11,4 +11,4 @@ Es un lenguaje de programación popular porque está diseñado para que sea fác
 
 -En JSON existen dos tipos de elementos
 
-    * matrices (arrays): Las matrices son listas de valores separados por comas. Las matrices se escriben entre corchetes [ ] 
+     matrices (arrays): Las matrices son listas de valores separados por comas. Las matrices se escriben entre corchetes [ ] 
