@@ -19,6 +19,7 @@ Es un lenguaje de programación popular porque está diseñado para que sea fác
 
 
 ##  JSON <a name="id2"></a>
+JSON es un formato de texto sencillo para el intercambio de datos. Se trata de un subconjunto de la notación literal de objetos de JavaScript, aunque, debido a su amplia adopción como alternativa a XML, se considera un formato independiente del lenguaje.
      matrices (arrays): Las matrices son listas de valores separados por comas. Las matrices se escriben entre corchetes [ ] 
      [1, "pepe", 3.14, "Pepito Conejo"]
 
