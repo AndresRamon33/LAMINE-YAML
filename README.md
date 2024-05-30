@@ -28,6 +28,49 @@ JSON es un formato de texto sencillo para el intercambio de datos. Se trata de u
     [1, "pepe", 3.14, "Pepito Conejo"]
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn-icons-png.flaticon.com/512/136/136443.png)
+
     
+    {
+    "YW0134": {
+      "Nombre": "Arica",
+      "Marca": "Yow",
+      "Tamaño": "33”",
+      "Cóncavo": "Alto",
+      "Eje": "Meraki S5",
+      "Ruedas": {
+        "Nombre": "Yow URA",
+        "Dureza": "76A",
+        "Rodamientos": "AVEC 7"
+      },
+      "Origen": "España"
+    },
+    "C4567": {
+      "Nombre": "Hobo",
+      "Marca": "Carver",
+      "Tamaño": "32.5”",
+      "Cóncavo": "Medium",
+      "Eje": "C7",
+      "Ruedas": {
+        "Nombre": "Carver ROUNDHOUSE",
+        "Dureza": "78A",
+        "Rodamientos": "AVEC 7"
+      },
+      "Origen": "Estados Unidos"
+    },
+    "SS0076": {
+      "Nombre": "Filipe Toledo #77",
+      "Marca": "Smoothstar",
+      "Tamaño": "34”",
+      "Cóncavo": "Alto",
+      "Eje": "Thurster",
+      "Ruedas": {
+        "Nombre": "Smoothstar STINGREY",
+        "Dureza": "83A",
+        "Rodamientos": "AVEC 7"
+      },
+      "Origen": "Australia"
+    }
+  }
+  ```
 
      
