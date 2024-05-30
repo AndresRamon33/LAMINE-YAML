@@ -9,7 +9,7 @@ Es un lenguaje de programación popular porque está diseñado para que sea fác
   - diciembre de 2004: YAML 1.1
   - octubre de 2009: YAML 1.2
 
--En JSON existen dos tipos de elementos
+
 
 ##  JSON
      matrices (arrays): Las matrices son listas de valores separados por comas. Las matrices se escriben entre corchetes [ ] 
