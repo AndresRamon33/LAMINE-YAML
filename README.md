@@ -4,12 +4,9 @@
 **Índice**   
 1. [Primer apartado](#id1)
 2. [Segundo apartado](#id2)
-## Primer apartado<a name="id1"></a>
-Texto del primer apartado
-## Segundo apartado<a name="id2"></a>
-Texto del segundo apartado
 
-##  YAML
+
+##  YAML <a name="id1"></a>
 YAML es un lenguaje de serialización de datos que las personas pueden comprender y suele utilizarse en el diseño de archivos de configuración. Para algunas personas, YAML significa otro lenguaje de marcado más; para otras, es un acrónimo recursivo que quiere decir "YAML no es un lenguaje de marcado", lo que enfatiza la idea de que se utiliza para los datos, no para los documentos. 
 
 Es un lenguaje de programación popular porque está diseñado para que sea fácil de leer y entender. También se puede utilizar junto con otros lenguajes de programación. 
@@ -21,7 +18,7 @@ Es un lenguaje de programación popular porque está diseñado para que sea fác
 
 
 
-##  JSON
+##  JSON <a name="id2"></a>
      matrices (arrays): Las matrices son listas de valores separados por comas. Las matrices se escriben entre corchetes [ ] 
      [1, "pepe", 3.14, "Pepito Conejo"]
 
