@@ -2,8 +2,8 @@
 
 
 **Índice**   
-1. [Primer apartado](#id1)
-2. [Segundo apartado](#id2)
+1. [YAML](#id1)
+2. [JSON](#id2)
 
 
 ##  YAML <a name="id1"></a>
