@@ -16,11 +16,14 @@ Es un lenguaje de programación popular porque está diseñado para que sea fác
   - diciembre de 2004: YAML 1.1
   - octubre de 2009: YAML 1.2
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/02/19/17083422488382.jpg)
+
 
 
 ##  JSON <a name="id2"></a>
 JSON es un formato de texto sencillo para el intercambio de datos. Se trata de un subconjunto de la notación literal de objetos de JavaScript, aunque, debido a su amplia adopción como alternativa a XML, se considera un formato independiente del lenguaje.
-     matrices (arrays): Las matrices son listas de valores separados por comas. Las matrices se escriben entre corchetes [ ] 
-     [1, "pepe", 3.14, "Pepito Conejo"]
+
+ ***matrices (arrays): Las matrices son listas de valores separados por comas. Las matrices se escriben entre corchetes [ ]***
+    `[1, "pepe", 3.14, "Pepito Conejo"]` 
 
      
